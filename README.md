@@ -1,4 +1,4 @@
-<H1> Spider-Man is my favorite movie series </H1> 
+<strong> <H1> Spider-Man is my favorite movie series </H1> </strong>
 This is my ranked list of my favorite Spider-Man actors:
 
 <ol>
@@ -6,3 +6,5 @@ This is my ranked list of my favorite Spider-Man actors:
 <li>Tobey Maguire</li>
 <li>Tom Holland</li>
 </ol>
+
+Written by: Mark Icban Parker
